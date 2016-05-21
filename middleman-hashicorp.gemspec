@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'middleman-hashicorp/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'middleman-hashicorp'
+  spec.name          = 'middleman-utils'
   spec.version       = Middleman::HashiCorp::VERSION
   spec.authors       = ['Seth Vargo']
   spec.email         = ['sethvargo@gmail.com']
