@@ -1,3 +1,5 @@
+**NOTE**: this repo is required by [contiv/contiv.github.io](https://github.com/contiv/contiv.github.io)
+
 HashiCorp Middleman Customizations
 ==================================
 A wrapper around [Middleman][] for HashiCorp's customizations.
